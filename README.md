@@ -1,15 +1,15 @@
 # Where To Found My Stuffs
 
 It is really hard to stay clean and don't spread on the internet.  
-So if someone ask me, or ask you, where to find my works and downloable:  
-You can ping them here.  
+So if someone ask me, or ask you, where to find my works and downloable:    
+You can ping them here.   
 
-If you need a code, 3D models technical or video, in short.
-My code and toolboxes: [https://github.com/EloiStree](https://github.com/EloiStree)
-My 3D assets: [https://github.com/EloiStree3D](https://github.com/EloiStree3D)
-My side project OMI: [https://github.com/OpenMacroInput](https://github.com/OpenMacroInput)
-Random Raw Archived video: [Youtube: Eloi Stree Raw](https://www.youtube.com/channel/UComxuwj8ulaREOdtNwwhI-w)
-Documentation video as Pre-Mortem: [Youtube: Eloi Stree Pre-Mortem](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)
+If you need a code, 3D models technical or video, in short.  
+My code and toolboxes: [https://github.com/EloiStree](https://github.com/EloiStree)  
+My 3D assets: [https://github.com/EloiStree3D](https://github.com/EloiStree3D)  
+My side project OMI: [https://github.com/OpenMacroInput](https://github.com/OpenMacroInput)  
+Random Raw Archived video: [Youtube: Eloi Stree Raw](https://www.youtube.com/channel/UComxuwj8ulaREOdtNwwhI-w)  
+Documentation video as Pre-Mortem: [Youtube: Eloi Stree Pre-Mortem](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  
 
 
 
