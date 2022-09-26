@@ -64,6 +64,21 @@ https://openmacroinput.itch.io/
 
 # Download my codes
 
+- [All project](https://docs.google.com/spreadsheets/d/1dplNEu-eivfIi6hjyfjjHxato-qBbwVPIGtZ37-q5MY/edit?usp=sharing) 
+  - on GitLab  https://gitlab.com/users/eloistree/projects
+  - on GitHub  https://github.com/EloiStree?tab=repositories
+  - on OMI GitHub  https://github.com/OpenMacroInput?tab=repositories
+
+In any project I am working on you will have those package in the manifest   
+```
+"be.eloistree.quickgitutility":"https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+"be.eloistree.license":"https://github.com/EloiStree/GeneralLicense.git",
+"be.eloistree.unitypackagefacilitator":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+"be.eloistree.generaltoolbox":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+
+```
+
+
 
 -------------------------------------------------
 
