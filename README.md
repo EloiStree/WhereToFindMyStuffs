@@ -66,11 +66,19 @@ https://openmacroinput.itch.io/
 
 
 -------------------------------------------------
-# Download my codes
+
+# Download my 3D asset
+
+You can find all it here:
+- https://github.com/eloistree3D
+
+
+Find the last release, I took time to publish online:
+- [https://cults3d.com/fr/recherche?q=eloistree](https://cults3d.com/fr/recherche?q=eloistree)
+
 
 
 -------------------------------------------------
-
 
 
 ## Contact Me
