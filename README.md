@@ -10,6 +10,9 @@ My 3D assets: [https://github.com/EloiStree3D](https://github.com/EloiStree3D)
 My side project OMI: [https://github.com/OpenMacroInput](https://github.com/OpenMacroInput)  
 Random Raw Archived video: [Youtube: Eloi Stree Raw](https://www.youtube.com/channel/UComxuwj8ulaREOdtNwwhI-w)  
 Documentation video as Pre-Mortem: [Youtube: Eloi Stree Pre-Mortem](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  
+Discord: [EloiStree Community Help](https://discord.com/invite/U4PpdEj) - [Open Macro Input Support](https://discord.gg/invite/hF8YvqYwMx)
+Donation: [To Me](https://en.tipeee.com/eloistree) - [To OMI](https://en.tipeee.com/omi)
+
 
 
 
