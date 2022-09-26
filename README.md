@@ -1,4 +1,4 @@
-# Where To Found My Stuffs
+# Where To Find My Stuffs
 
 It is really hard to stay clean and don't spread on the internet.  
 So if someone ask me, or ask you, where to find my works and downloable:    
